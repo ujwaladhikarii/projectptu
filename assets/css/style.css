@@ -1,0 +1,293 @@
+.navbar{
+
+    padding: 20px;
+}
+
+
+
+
+
+.nav-item, .dropdown-item {
+    color: blue !important;
+}
+.nav-item:hover, .dropdown-item:hover {
+    color: darkgreen !important;
+}
+ 
+/* Container holding the image and the text */
+.contain {
+    position: relative;
+    text-align: center;
+    color: white;
+    
+  }
+
+  
+  
+  /* Centered text */
+  .centered {
+    position: absolute;
+    
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(43, 122, 226);
+    padding: 20px;
+  }
+
+  .aboutme-section {
+    padding: 40px 80px;
+}
+  
+.aboutme-section h2{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+.aboutmea-section{
+    text-align: center;
+    
+}
+
+
+
+
+
+.myblogs-section h2{
+    
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+
+.grid-section{
+text-align: center;
+
+}
+
+
+.service-content p {
+    text-align: justify;
+    padding: 20px;
+}
+
+*{
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+style attribute {
+    color: white;
+}
+
+.service-content {
+    text-align: center;
+}
+
+.servicess-section h2{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 40px;
+    margin-bottom: 40px;
+    margin-top: 30px; 
+}
+
+.courses-section h2{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 40px;
+    margin-bottom: px;
+    margin-top: 30px; 
+}
+
+.courses-section{
+    text-align: center;
+   
+}
+
+
+
+.back-section{
+    background-color: aqua;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+
+
+.footer-top-info {
+    padding: 20px 20px 10px 20px;
+    /* background-color: #008080; */
+    background-color: #2e6296;
+    color: white;
+    text-align: center;
+}
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+
+.footer-top-info {
+    padding: 20px 20px 10px 20px;
+    /* background-color: #008080; */
+    background-color: #ffffff;
+    color: white;
+    text-align: center;
+}
+
+.footer-top-info a {
+    color: white;
+    font-size: 32px;
+}
+/* a {
+    color: #0b0eaf;
+    text-decoration: none;
+    background-color: transparent;
+} */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+a:-webkit-any-link {
+    color: #1f4266;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+a:-webkit-any-link :hover{
+    color: rgb(168, 25, 0) !important;
+}
+
+
+.footer-bottom-info {
+    padding: 30px 20px 20px 20px;
+    background-color: #1f4266;
+    color: white;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+
+
+
+div {
+    display: block;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.follow-me-content h3{
+color: #1f4266;
+}
+
+
+
+
+.courses-content{
+    background-color: #1f4266;
+    padding: 30px;
+    color: black;
+    margin: 20px;
+}
+
+.service-content p {
+    text-align: center;
+    padding: 20px;
+}
+
+.bg-dark {
+    background-color: #1f4266!important;
+}
+
+.h2, h2 {
+    font-size: 2rem;
+    text-align: center;
+}
+.copyright-content{
+    text-align: center;
+    border-top: 1px solid gray;
+    margin-top: 30px;
+    padding: 30px 20px 0px 20px;
+}
+
+.address-content div p {
+    background-color: #3d78a8;
+    text-align: center;
+    padding: 40px;
+}
+
+.mb-4, .my-4 {
+    margin-bottom: 1.5rem!important;
+}
